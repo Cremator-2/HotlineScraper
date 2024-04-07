@@ -17,6 +17,9 @@ To run the script, use the following command in your terminal:
 
 ```python main.py --search GeForce_RTX_4080_SUPER Intel_Core_i7-14700 --pages 2```
 
+
+```python main.py -s GeForce_RTX_4080_SUPER```
+
 Default: 1 page
 
 
