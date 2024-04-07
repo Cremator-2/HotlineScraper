@@ -1,0 +1,11 @@
+__pycache__
+logs
+.idea
+.vscode
+venv
+ENV
+.venv
+.test
+.env
+.reviewer
+.dev
