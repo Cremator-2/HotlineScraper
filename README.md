@@ -27,7 +27,7 @@ This command will search for "GeForce RTX 4080 SUPER" and "Intel Core i7-14700" 
 
 ## Output
 
-The script outputs CSV files with the search results. Each search term generates a separate CSV file named using the pattern `hotline_search-Search_Term-Current_Time.csv`.
+The script outputs CSV files with the search results. Each search term generates a separate CSV file named using the pattern `hotline_search__Search_Term__Current_Time.csv`.
 
 ### CSV Format
 
@@ -38,6 +38,8 @@ The CSV files contain the following columns:
 - Link
 - Description
 - Offers
+- Product website
+- Specification
 
 ## Multiple Searches
 
