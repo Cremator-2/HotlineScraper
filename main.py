@@ -101,3 +101,4 @@ if __name__ == "__main__":
     for item in items:
         get_search_info(item=item, n_pages=pages, current_time=run_time)
         time.sleep(random.uniform(2.8423, 3.41294))
+
